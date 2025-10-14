@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0782278e5b06e696437ea949e8425294",
-"assets/AssetManifest.bin.json": "64c501eb57cd8e143b3dddd3033e8324",
-"assets/AssetManifest.json": "95514b0c2010c22237d294f2f940f388",
+const RESOURCES = {"assets/AssetManifest.bin": "ed4e584e13529a3cc1406500d64f942f",
+"assets/AssetManifest.bin.json": "7db0c8b2ee4431200019d407f945dacd",
+"assets/AssetManifest.json": "91a9dca2958f9452ba14295938494313",
 "assets/assets/config/app_config.json": "5b02d8b8ed2494e5d37d1c41fe4637c8",
 "assets/assets/fonts/Roboto-Bold.ttf": "36b5bab58a18b9c924861a4ccbf1a790",
 "assets/assets/fonts/Roboto-Italic.ttf": "93b13a58dedeebe519846555a543523b",
@@ -52,6 +52,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0782278e5b06e696437ea949e8425294
 "assets/assets/images/journalists/laura_pepe.jpg": "d0b54e273be6120c0f21692b7962f192",
 "assets/assets/images/journalists/laura_squillaci.jpg": "f1f10627dd53fea15a28b8f2c92f17e4",
 "assets/assets/images/journalists/laura_tangherlini.jpg": "93195d413e1e8615fde8f4305aaa2d62",
+"assets/assets/images/journalists/leonardo_sgura.jpg": "bce5d55970d90f3574c58d3abdc1d895",
 "assets/assets/images/journalists/liana_mistretta.jpg": "d1a0e39c99517766400aaa631734c83c",
 "assets/assets/images/journalists/lorenzo_di_las_plassas.jpg": "37efc5ffbcf1fd8de200b6d5f1f39ff6",
 "assets/assets/images/journalists/lucia_basso.jpg": "9d6b32fff77f233cb68f91ed6aee6b61",
@@ -87,7 +88,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0782278e5b06e696437ea949e8425294
 "assets/assets/images/journalists/veronica_fernandes.jpg": "91f9002b2f19c87e1d414c9501403fb6",
 "assets/assets/images/logoapp.png": "169947ba2231d525cd0543b12b7e21df",
 "assets/FontManifest.json": "cab59db45311a2d7ed52d5b6e196e626",
-"assets/fonts/MaterialIcons-Regular.otf": "972fd6e2994d37c02ebe8e3ce7f46f96",
+"assets/fonts/MaterialIcons-Regular.otf": "2d947e2a5d6c9872b3ac1721ff9d51f3",
 "assets/NOTICES": "7017da4539ab5af4bd80bd495c73a3d9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -103,14 +104,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "0782278e5b06e696437ea949e8425294
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "169947ba2231d525cd0543b12b7e21df",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "9820219f55d9114fd116c2305e93b37c",
+"flutter_bootstrap.js": "6b91bcc6e770efd6533b56594374e0f3",
 "icons/Icon-192.png": "169947ba2231d525cd0543b12b7e21df",
 "icons/Icon-512.png": "169947ba2231d525cd0543b12b7e21df",
 "icons/Icon-maskable-192.png": "169947ba2231d525cd0543b12b7e21df",
 "icons/Icon-maskable-512.png": "169947ba2231d525cd0543b12b7e21df",
 "index.html": "cb19a77171303581a2e9702fc86444ab",
 "/": "cb19a77171303581a2e9702fc86444ab",
-"main.dart.js": "3ba4442d52a1cb914cdb30ed49cb49a1",
+"main.dart.js": "5cbbd8ef5b76802f96adb965781b06f7",
 "manifest.json": "d5663c2342c120b5d16192c7b8150de5",
 "version.json": "f14f0c2c346eac07bde7b32b3d09ba59"};
 // The application shell files that are downloaded before a service worker can
