@@ -1,7 +1,6 @@
 {
   "appName": "Kori",
-  "appVersion": "1.2.0",
-  "isDebug": true,
+  "isDebug": false,
 
   "_comment_supabase_cloud": "Configurazione Supabase Cloud (produzione)",
   "supabaseUrl": "https://dkdaitpvxzolrholkyyf.supabase.co",
@@ -29,6 +28,6 @@
     "enableDatabaseSwitch": true,
     "enableOfflineMode": false,
     "enableDataSync": true,
-    "enableAdvancedLogging": true
+    "enableAdvancedLogging": false
   }
 }
