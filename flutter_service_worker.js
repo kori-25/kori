@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "71928419ba875c0f3da7c16edfa002f7",
-"assets/AssetManifest.bin.json": "8704695c73e1e8593a032a79a72cb905",
-"assets/AssetManifest.json": "4f0b3f18e1d13fb645c07739a718e79f",
+const RESOURCES = {"assets/AssetManifest.bin": "9117d9ca2334dfe464df8e2071fef138",
+"assets/AssetManifest.bin.json": "937208a67495286a4318a2135720b51c",
+"assets/AssetManifest.json": "8c11550faaaeccbfc367e8ce20c0324b",
 "assets/assets/config/app_config.json": "ffaf8d7aa7256e9b34ebe6f237acb76a",
 "assets/assets/config/app_config.json.example": "af2357236553c1b95596778c49876e5c",
 "assets/assets/config/README.md": "841be9c51982a6a27fee044adafbf6e1",
@@ -79,6 +79,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "71928419ba875c0f3da7c16edfa002f7
 "assets/assets/images/journalists/riccardo_cavaliere.jpg": "9c2acd05182e44aa06eda59364ccc1b2",
 "assets/assets/images/journalists/rino_pellino.jpg": "161b65c739a10804560995c4c8f234a4",
 "assets/assets/images/journalists/roberta_castellano.jpg": "2120c93498886534db8cc15a4eda578a",
+"assets/assets/images/journalists/sara_grattoggi.jpg": "aad4a6c1376e0d3da14f6da8244e0455",
 "assets/assets/images/journalists/sara_nesci.jpg": "6a09a972196d55a66dc0072d444158f7",
 "assets/assets/images/journalists/sara_verta.jpg": "42817c177d08cea7786aa463bb1b525a",
 "assets/assets/images/journalists/serena_scorzoni.jpg": "ff934595673dd6188f2e18f0d5f39e9c",
@@ -108,14 +109,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "71928419ba875c0f3da7c16edfa002f7
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "169947ba2231d525cd0543b12b7e21df",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "761628784c86f0e7ef18a3dbefc7ea14",
+"flutter_bootstrap.js": "e74fa4ddd3189a868eda73302dc0dbf7",
 "icons/Icon-192.png": "169947ba2231d525cd0543b12b7e21df",
 "icons/Icon-512.png": "169947ba2231d525cd0543b12b7e21df",
 "icons/Icon-maskable-192.png": "169947ba2231d525cd0543b12b7e21df",
 "icons/Icon-maskable-512.png": "169947ba2231d525cd0543b12b7e21df",
 "index.html": "cb19a77171303581a2e9702fc86444ab",
 "/": "cb19a77171303581a2e9702fc86444ab",
-"main.dart.js": "809d656f394fbb915bc6a87efdfe7c7a",
+"main.dart.js": "0664287fc6ed34182cdef06528bc4171",
 "manifest.json": "d5663c2342c120b5d16192c7b8150de5",
 "version.json": "f14f0c2c346eac07bde7b32b3d09ba59"};
 // The application shell files that are downloaded before a service worker can
